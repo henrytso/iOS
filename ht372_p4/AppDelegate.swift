@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  ht372_p5
+//  ht372_p4
 //
-//  Created by Mann Public IMac on 3/29/18.
+//  Created by Mann Public IMac on 3/22/18.
 //  Copyright © 2018 Henry Tso. All rights reserved.
 //
 
@@ -17,7 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         
         window = UIWindow(frame: UIScreen.main.bounds)
-        window?.rootViewController = UINavigationController(rootViewController: UIViewController())
+        window?.rootViewController = UINavigationController(rootViewController: ViewController())
         window?.makeKeyAndVisible()
         
         return true

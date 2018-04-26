@@ -1,0 +1,1 @@
+Henry Tsoht372Project 4: Sick BeatzChallenges Attempted:#1: Can delete by swiping left#3: Artists represented as an array    Upon changing text and saving, converts string back to array    Was not sure how to use substrings to modify string and remove extra space charactersExtra:Made iPhone app icon
